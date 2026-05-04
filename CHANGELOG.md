@@ -1,4 +1,4 @@
-# Ansible Role for Image Viewer
+# Ansible Role for Image Viewer with Flatpak
 
 ## 13.6.0 - TBC
 
