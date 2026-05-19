@@ -1,13 +1,13 @@
-# Ansible Role for Image Viewer
+# Ansible Role for Image Viewer with Flatpak
 
 <a href="https://alvistack.com" title="AlviStack" target="_blank"><img src="/alvistack.svg" height="75" alt="AlviStack"></a>
 
-[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-eog/master)](https://gitlab.com/alvistack/ansible-role-eog/-/pipelines)
-[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-eog.svg)](https://github.com/alvistack/ansible-role-eog/tags)
-[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-eog.svg)](https://github.com/alvistack/ansible-role-eog/blob/master/LICENSE)
-[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.eog-blue.svg)](https://galaxy.ansible.com/alvistack/eog)
+[![Gitlab pipeline status](https://img.shields.io/gitlab/pipeline/alvistack/ansible-role-flatpak_eog/master)](https://gitlab.com/alvistack/ansible-role-flatpak_eog/-/pipelines)
+[![GitHub tag](https://img.shields.io/github/tag/alvistack/ansible-role-flatpak_eog.svg)](https://github.com/alvistack/ansible-role-flatpak_eog/tags)
+[![GitHub license](https://img.shields.io/github/license/alvistack/ansible-role-flatpak_eog.svg)](https://github.com/alvistack/ansible-role-flatpak_eog/blob/master/LICENSE)
+[![Ansible Role](https://img.shields.io/badge/galaxy-alvistack.flatpak_eog-blue.svg)](https://galaxy.ansible.com/alvistack/flatpak_eog)
 
-Ansible Role for Image Viewer Installation.
+Ansible Role for Image Viewer with Flatpak.
 
 ## Requirements
 
